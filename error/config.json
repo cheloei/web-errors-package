@@ -1,0 +1,95 @@
+{
+    "public":{
+        "icon":"../photo_2023-09-02_14-25-03.jpg",
+        "home":"#",
+        "lang":"fa",
+        "return-home-fa":"بازگشت به خانه",
+        "return-home-en":"return to home page"
+    },
+    "errors":{
+        "error-400":{
+            "fa":"درخواست نادرست",
+            "en":"Bad Request"
+        },
+        "error-401":{
+            "fa":"درخواست تایید نشده",
+            "en":"Failure to acknowledge the request"
+        },
+        "error-402":{
+            "fa":"درخواست پرداخت",
+            "en":"Payment Req'd"
+        },
+        "error-403":{
+            "fa":"شمازه اجازه دسترسی به این صفحه را ندارید",
+            "en":"You are not allowed to access this page"
+        },
+        "error-404":{
+            "fa":"صفحه مورد نظر پیدا نشد",
+            "en":"Page Not Found"
+        },
+        "error-405":{
+            "fa":"متد ارسال  کننده اطلاعات نامعتبر میباشد",
+            "en":"Method Not Allowed"
+        },
+        "error-406":{
+            "fa":"متاسفانه متد ارسال کننده اطلاعات توسط سرور پشتیبانی نمیشود",
+            "en":"Method Not Supported"
+        },
+        "error-407":{
+            "fa":"خطای پروکسی",
+            "en":"Proxy Auth Repid"
+        },
+        "error-408":{
+            "fa":"زمان درخواست به اتمام رسید",
+            "en":"Request Time Out"
+        },
+        "error-409":{
+            "fa":"درخواست متناقض",
+            "en":"Conficting Request"
+        },
+        "error-410":{
+            "fa":"متاسفانه منبع مورد درخواست از بین رفته است",
+            "en":"Unfortunately, the requested resource has been lost."
+        },
+        "error-411":{
+            "fa":"هدر نامعتبر",
+            "en":"Content Len Req'd"
+        },
+        "error-412":{
+            "fa":"شرایط درخواست برقرار نیست",
+            "en":"Precondition Failed"
+        },
+        "error-413":{
+            "fa":"سرور توانایی انجام این حجم از درخواست را ندارد",
+            "en":"Entity Too Long"
+        },
+        "error-414":{
+            "fa":"آدرس وارد شده بیش از حد طولانی است",
+            "en":"URI Too Long"
+        },
+        "error-500":{
+            "fa":"خطای داخلی سرور",
+            "en":"Internal server error"
+        },
+        "error-501":{
+            "fa":"متاسفانه سرور قادر به انجام این درخواست نمیباشد",
+            "en":"Unfortunately, the server is unable to fulfill this request"
+        },
+        "error-502":{
+            "fa":"دروازه بد",
+            "en":"Bad Gateway"
+        },
+        "error-503":{
+            "fa":"سرور موقتا در دسترس نیست",
+            "en":"Service Unavailable"
+        },
+        "error-504":{
+            "fa":"دروازه پاسخگو نیست",
+            "en":"Gateway Timeout"
+        },
+        "error-505":{
+            "fa":"نسخه http شما قدیمی است",
+            "en":"Your http version is out of date"
+        }
+    }
+}
